@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="products.css" ?>
+<products>
+    <product>
+        <name>Lipstick</name>
+        <description>Matte finish, long-lasting lipstick</description>
+        <price>$20</price>
+        <categories>
+            <category>makeup</category>
+            <category>lips</category>
+        </categories>
+    </product>
+    <product>
+        <name>Foundation</name>
+        <description>Liquid foundation for a natural glow</description>
+        <price>$35</price>
+        <categories>
+            <category>makeup</category>
+            <category>face</category>
+        </categories>
+    </product>
+    <product>
+        <name>Eyeshadow Palette</name>
+        <description>12-shade eyeshadow palette with matte and shimmer finishes</description>
+        <price>$50</price>
+        <categories>
+            <category>makeup</category>
+            <category>eyes</category>
+        </categories>
+    </product>
+    <product>
+        <name>Mascara</name>
+        <description>Volume-boosting waterproof mascara</description>
+        <price>$18</price>
+        <categories>
+            <category>makeup</category>
+            <category>eyes</category>
+        </categories>
+    </product>
+    <product>
+        <name>Blush</name>
+        <description>Powder blush for a rosy glow</description>
+        <price>$15</price>
+        <categories>
+            <category>makeup</category>
+            <category>face</category>
+        </categories>
+    </product>
+    <product>
+        <name>Highlighter</name>
+        <description>Creamy highlighter for a radiant finish</description>
+        <price>$25</price>
+        <categories>
+            <category>makeup</category>
+            <category>face</category>
+        </categories>
+    </product>
+    <product>
+        <name>Makeup Brushes Set</name>
+        <description>10-piece professional makeup brush set</description>
+        <price>$40</price>
+        <categories>
+            <category>makeup tools</category>
+        </categories>
+    </product>
+    <product>
+        <name>Setting Spray</name>
+        <description>Long-lasting setting spray to keep makeup in place</description>
+        <price>$15</price>
+        <categories>
+            <category>makeup</category>
+            <category>face</category>
+        </categories>
+    </product>
+</products>
